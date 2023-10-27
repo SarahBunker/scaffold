@@ -1,4 +1,4 @@
-name: Cloud 9, python 3.7
+name: Azure python 3.5
 on: [push]
 jobs:
   build:
