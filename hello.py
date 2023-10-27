@@ -4,4 +4,5 @@ def add(a, b):
 
 x = 1
 y = 5
-print(f"This is the sum: {x} + {y} = {add(x,y)}")
+result = add(x, y)
+print("This is the sum: %s + %s = %s" %(x, y, result))
