@@ -2,7 +2,7 @@ install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 		
-install:
+install_azure:
 	pip install --upgrade pip &&\
 		pip install -r requirements_azure.txt
 
